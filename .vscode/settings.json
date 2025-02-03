@@ -1,0 +1,7 @@
+{
+    "debug.disassemblyView.showSourceCode": true,
+    "scm.alwaysShowRepositories": false,
+    "scm.alwaysShowActions": false,
+    "scm.providerCountBadge": "hidden",
+    "scm.workingSets.enabled": true
+}
